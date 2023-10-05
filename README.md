@@ -1,7 +1,7 @@
 <h1 align="center">Fade Shimmer</h1>
 
 <p align="center">
-  <a href="https://github.com/Anderson-Andre-P/shimmer_effect">
+  <a href="https://github.com/Anderson-Andre-P/fade-shimmer">
     <img alt="Made by Anderson André" src="https://img.shields.io/badge/-Github-6615F5?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Anderson-Andre-P" />
   </a>
   <a href="https://www.linkedin.com/in/anderson-andre-pereira/">
@@ -30,9 +30,9 @@
 <details>
 
 <summary>Click me for see a demo image</summary>
-<div align="center" width="20px">
+<div align="center" style="width: 200px;">
 
-![Shimmer Effect](/shimmer_effect.gif) |
+![Shimmer Effect](/shimmer_effect.gif)
 
 </div>
 
