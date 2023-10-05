@@ -1,15 +1,4 @@
-# shimmer_effect
-
-personal project to learn how the shimmer charging effect works
-
-<!---
-Titulo: Movies
-Nome do repositório: shimmer_effect
-Data do upload: 05.10.23
-Cor do badge: 6615F5
--->
-
-<h1 align="center">Movies</h1>
+<h1 align="center">Fade Shimmer</h1>
 
 <p align="center">
   <a href="https://github.com/Anderson-Andre-P/shimmer_effect">
@@ -18,12 +7,12 @@ Cor do badge: 6615F5
   <a href="https://www.linkedin.com/in/anderson-andre-pereira/">
       <img alt="Anderson André" src="https://img.shields.io/badge/-Anderson%20André-6615F5?style=for-the-badge&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Anderson-Andre-P/shimmer-effect?style=for-the-badge&label=Repo%20Size:&labelColor=6615F5&color=6615F5">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Anderson-Andre-P/fade-shimmer?style=for-the-badge&label=Repo%20Size:&labelColor=6615F5&color=6615F5">
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Shimmer_Effect-05.10.23-6615F5?style=for-the-badge&labelColor=6615F5">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anderson-Andre-P/shimmer-effect?style=for-the-badge&label=last%20commit:&labelColor=6615F5&color=6615F5">
+    <img src="https://img.shields.io/badge/fade_shimmer-05.10.23-6615F5?style=for-the-badge&labelColor=6615F5">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anderson-Andre-P/fade-shimmer?style=for-the-badge&label=last%20commit:&labelColor=6615F5&color=6615F5">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-6615F5?style=for-the-badge&labelColor=6615F5&color=6615F5">
 </p>
 
