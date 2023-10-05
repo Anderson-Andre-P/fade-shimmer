@@ -74,7 +74,7 @@ If you want to contribute to the project, you can follow these steps:
 Fork this repository and clone it to your local machine using the code bellow.
 
 ```bash
-https://github.com/Anderson-Andre-P/shimmer_effect
+https://github.com/Anderson-Andre-P/fade-shimmer
 ```
 
 #### Step 2
@@ -115,10 +115,10 @@ Follow the steps below to run the project on your computer. (using terminal or g
 
 ```bash
  # Cloning the repository
-$ git clone git@github.com:Anderson-Andre-P/shimmer_effect.git
+$ git clone git@github.com:Anderson-Andre-P/fade-shimmer.git
 
 # Accessing THIS project directory
-$ cd './shimmer_effect'
+$ cd './fade-shimmer'
 
 # Installing the dependencies
 $ flutter pub get
